@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683647920 source:c:\users\gsnwo\desktop\startup_verses\main.cpp
+	<iostream>
+	<vector>
+
